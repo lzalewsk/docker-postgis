@@ -1,1 +1,1 @@
-docker build -t kartoza/postgis:9.5-2.2 .
+docker build -t lzalewsk/postgis:9.5-2.2 .
